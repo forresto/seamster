@@ -46,8 +46,8 @@
     },
     {
       "component": "header",
-      "heading": "seamster",
-      "subhead": null,
+      "heading": "SEAMSTER.CLUB",
+      "subhead": "manifesto (wip (rfc))",
       "children": [
         {
           "component": "ui/TweetButton",
@@ -58,6 +58,17 @@
           "component": "ui/GithubButton",
           "user": "forresto",
           "repo": "seamster"
+        }
+      ],
+      "slug": "",
+      "links": [
+        {
+          "href": "http://www.friendsday.fi/",
+          "text": "friendsday.fi ♻️💗👖"
+        },
+        {
+          "href": "http://www.softfab.org/",
+          "text": "softfab.org 📐👕"
         }
       ]
     },
@@ -72,12 +83,8 @@
       "component": "footer",
       "links": [
         {
-          "href": "https://github.com/forresto/seamster",
-          "text": "GitHub"
-        },
-        {
-          "href": "https://github.com/forresto",
-          "text": "forresto"
+          "href": "https://github.com/forresto/seamster/issues",
+          "text": "Discuss"
         }
       ]
     }
